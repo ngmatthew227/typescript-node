@@ -33,3 +33,6 @@ node_modules
 #Ignore dist folder
 dist
 
+*.har
+*.exe
+.vscode/tasks.json
